@@ -1,0 +1,24 @@
+Bangun datar: Persegi
+Sisi: 5 cm
+Luas: 25.00 cm²
+----------------------------------------
+Bangun datar: Persegi Panjang
+Panjang: 8 cm
+Lebar: 3 cm
+Keliling: 22.00 cm
+----------------------------------------
+Bangun datar: Segitiga
+Alas: 4 cm
+Tinggi: 3 cm
+Luas: 6.00 cm²
+----------------------------------------
+Bangun datar: Segitiga
+Sisi 1: 3 cm
+Sisi 2: 4 cm
+Sisi 3: 5 cm
+Keliling: 12.00 cm
+----------------------------------------
+Bangun datar: Lingkaran
+Jari-jari: 7 cm
+Luas: 153.86 cm²
+----------------------------------------
